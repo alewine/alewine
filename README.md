@@ -1,10 +1,6 @@
-## Hi there 👋
-
 <!--
 **alewine/alewine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Bill Alewine</h1>
+<h3 align="center">Wake up. Kick butt. Be kind.</h3>
+
+- 🔭 I’m currently working on **a text-based adventure game assist bot**
+
+- 🌱 I’m currently learning **to play ukelele**
+
+- 💬 Ask me about **Team Building, MySQL query tuning, portrait and wedding photography, western music theory**
+
+- 📫 How to reach me **alewine@gmail.com**
+
+- ⚡ Fun fact **The sun weighs 2,000 million million million million tons**
