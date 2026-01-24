@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Bill Alewine</h1>
+<h1 align="center">Hi 👋, I'm Alewine</h1>
 <h3 align="center">Wake up. Kick butt. Be kind.</h3>
 
 - 🔭 I’m currently working on **a text-based adventure game assist bot**
@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **to play ukelele**
 
 - 💬 Ask me about **Team Building, old school BBS games, portrait and wedding photography, music theory**
-
-- 📫 How to reach me **alewine@gmail.com**
 
 - ⚡ Fun fact: Did you know that lobsters have blue blood? This unique trait is due to the presence of hemocyanin, which contains copper, unlike the iron found in human blood.
